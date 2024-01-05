@@ -1,3 +1,5 @@
 # Bu Bir Demo
 
-Demo için hazırlanmıştır!
+
+
+Demo için değiştirilmiştir.
